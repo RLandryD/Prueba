@@ -1,0 +1,14 @@
+Idea para proyecto
+
+Introducción.
+	Los estudiantes, hay veces que tenemos que ir leyendo o estudiando para un examen o presentación, pero el camión tiene muchos movimientos abruptos, así que nos perdemos de dónde estamos leyendo. 
+	También hay veces que queremos leer mientras hacemos ejercicio, donde también, se presenta el escenario del movimiento ocular.
+	Finalmente, el tercer campo donde se podría enfocar, serían personas con Parkinson o algún problema motríz, que independientemente de dónde quieran leer, no pueden, ya que los movimientos involuntarios son mucho mayores y más frecuentemente.
+
+
+Solución
+	Utilizar los sensores de los celulares para que capten la pupila, de esta forma, hacer que el texto se acomode al ángulo visual (Suba, baje o de lado), pero aparte de eso, el texto vaya avanzando automáticamente mientras que avanzamos, de esta forma, si el celular detecta que nuetra visión está fuera del rango del celular, lo "pausaría", y al momento de volver al texto marcaría en dónde nos quedamos.
+
+
+Respaldo para realizar el proyecto.
+	El cuerpo de métrica en postgrado me va a estar apoyando en la realización, en caso de no ser posible, otra opción es el centro de ((neurología?)) de la Universidad de la Salle, ahí estaría trabajando con los sensores, con el apoyo de la dra. Leticia Chacón, directora de dicho centro.
